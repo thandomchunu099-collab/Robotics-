@@ -1,6 +1,6 @@
 # Robotics-// Pin definitions
 int tempPin = A0;      // Temperature sensor pin
-int ledPin = 8;        // LED or fan (via relay)
+int ledPin = ;        // LED or fan (via relay)
 float temperature; 
 
 void setup() {
